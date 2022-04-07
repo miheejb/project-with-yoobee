@@ -1,0 +1,30 @@
+h1 {
+  color: yellow;
+  background-color: black;
+  font: 36px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+/* p {
+  background-color: yellow;
+  color: black;  
+  use contrl slash for this*/
+
+
+.txt{
+color:purple
+}
+
+#txt{
+    color:brown;
+    background-color: aliceblue;
+}
+
+.paragraph{
+    color: green;
+}
+/* class is reusable but not id */
